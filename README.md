@@ -44,10 +44,6 @@ The technologies and services under the hood are as follows:
     ```
 6. Open the **http://localhost:3000/** URL in your web browser.
 
-## <a id="heroku"></a>Heroku Deployment
-
-The application is hosted on [Heroku](https://www.heroku.com/) Cloud Application Platform at [https://plynoi-weather-application.herokuapp.com/](https://plynoi-weather-application.herokuapp.com/) page.
-
 ## <a id="author"></a>Author
 
 Author: Wasin Waeosri ([plynoi.com](https://plynoi.com/))
